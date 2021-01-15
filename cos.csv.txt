@@ -1,0 +1,2 @@
+email;haslo;powhaslo;imienazwisko;nrtelefonu
+kornelglogmail.com;testowanie;testowanie;korni korni;111 111 111
